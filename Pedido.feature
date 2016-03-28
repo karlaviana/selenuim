@@ -9,21 +9,20 @@ Então apresenta uma mensagem "Cadastro com sucesso"
 
 Cenário : Listar Pedidos 
 Dado que estou em Lista de Pedidos
-Quando  apresento os dados cadastrados.
+ Então  apresenta os dados na lista de Pedidos.
 |ID|	|Data|	|Cliente|	|Itens|	|Total|	|Desconto|	|Frete|	|Total geral|	|Status|
  15     22/03/2016 Eduardo    1      2,00     0,00        0,00      2,00         Pedente
- Então  apresenta os dados na lista de Pedidos.
 
  Cenário : Excluir Pedidos
  Dado que estou na Lista de Pedidos
- Quando  excluo um item de lista de Pedidos
+ Quando  excluo um item que contem os seguintes dados:
  ID|	|Data|	|Cliente|	|Itens|	|Total|	|Desconto|	|Frete|	|Total geral|	|Status|
  15     22/03/2016 Eduardo    1      2,00     0,00        0,00      2,00         Pedente
  Então apresenta mensagem de exclusão com sucesso.
 
  Cenário : Exportar Pedidos
  Dado que estou na lista de Pedido
- Quando exporto um item da lista de pedido
+ Quando exporto um item da lista de pedido que contem os seguintes dados:
  ID|	|Data|	|Cliente|	|Itens|	|Total|	|Desconto|	|Frete|	|Total geral|	|Status|
  15     22/03/2016 Eduardo    1      2,00     0,00        0,00      2,00         Pedente
  Então é criado um arquivo.txt  com os dados do pedido.
