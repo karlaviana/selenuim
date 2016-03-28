@@ -10,8 +10,8 @@ Então apresenta uma mensagem "Cadastro com sucesso"
 Cenário : Listar Pedidos
 Dado que estou em Lista de Pedidos
  Então  apresenta os dados na lista de Pedidos.
-|ID|	|Data|	|Cliente|	|Itens|	|Total|	|Desconto|	|Frete|	|Total geral|	|Status|
- 15     22/03/2016 Eduardo    1      2,00     0,00        0,00      2,00         Pedente |
+|ID| Data	      |Cliente  |Itens|Total| Desconto|	|Frete|	|Total geral|	|Status|
+|15| 22/03/2016 | Eduardo | 1   | 2,00|    0,00 |       0,00      2,00         Pedente |
 
  Cenário : Excluir Pedidos
  Dado que estou na Lista de Pedidos
