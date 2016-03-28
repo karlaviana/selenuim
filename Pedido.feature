@@ -1,17 +1,17 @@
 Feature : Novo Pedido
 Cenário : Cadastar um novo pedido em Novo pedido
-Dado que estou em cliente 
+Dado que estou em cliente
 Quando preencho os dados do formulário com os dados.
 | Formas de pagamento |  Cliente |  Status do pedido | Endereço|     |Bairro|  |CEP|Cidade |Estado| Produto| valor | Quantidade| | cor/tam|
 | à vista             | Cliente3 |  Pedente          | Rua da Silva| Cordeiro| 50721230| Recife|PE | teste3 | 2,00| | 2        | | preto /social|
 E finalizo o cadastro do pedido.
 Então apresenta uma mensagem "Cadastro com sucesso"
 
-Cenário : Listar Pedidos 
+Cenário : Listar Pedidos
 Dado que estou em Lista de Pedidos
  Então  apresenta os dados na lista de Pedidos.
 |ID|	|Data|	|Cliente|	|Itens|	|Total|	|Desconto|	|Frete|	|Total geral|	|Status|
- 15     22/03/2016 Eduardo    1      2,00     0,00        0,00      2,00         Pedente
+ 15     22/03/2016 Eduardo    1      2,00     0,00        0,00      2,00         Pedente |
 
  Cenário : Excluir Pedidos
  Dado que estou na Lista de Pedidos
@@ -32,5 +32,3 @@ Dado que estou em Lista de Pedidos
  E seleciono o item a ser impresso.
  Quando seleciono o item a ser impresso
  Então  apresenta uma janela  para impressão do item.
- 
- 
