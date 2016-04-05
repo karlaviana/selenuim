@@ -1,0 +1,22 @@
+Cenário Pesquisar Cursos
+Verificar se a pesquisa um curso inexistente ou caracteres especiais com isso observando se exibe mensagem 
+de curso que não existe.
+Verificar se ao fazer a consulta tiver tempo de resposta maior que 5 segundos.
+Verificar ao efetuar a pesquisa por todos a lista dos cursos vir em ordem alfabetica.
+Verificar se informando o curso desejado aparece na lista automaticamente.
+Verificar se ao clicar no botão lista todos os cursos.
+Listar  todos os cursos gratuitos.
+Listar os cursos  por nivel se exibem na tela da consulta.
+
+Fazer inscrição no curso
+
+Verificar se o usuário está na sua conta.
+Verificar se os cursos exibidos na tela aparecem em ordem alfabetica.
+Verificar se o curso que o usuário se inscreveu aparece em meus cursos.
+Verificar se o usuário pode se deslogar da aplicação.
+
+
+
+
+
+
