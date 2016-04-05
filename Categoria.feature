@@ -1,4 +1,7 @@
 Feature : Cadastrar
+Como um vendedor
+Quero poder cadastrar novas categorias
+Para registrar as categorias e poder usar elas
 
 Cenário: Cadastro de  Nova Categoria
 Dado que estou em Cadastrar Categoria
