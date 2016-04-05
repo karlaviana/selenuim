@@ -1,0 +1,55 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="C:\Users\karlamaria\IdeaProjects\teste23" />
+        <option value="C:\Users\karlamaria\IdeaProjects\novo" />
+        <option value="C:\Users\karlamaria\IdeaProjects\teste" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="C:\Users\karlamaria\IdeaProjects\teste23" />
+      </list>
+    </option>
+    <option name="lastPath" value="C:\Users\karlamaria\IdeaProjects\teste23" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="C:\Users\karlamaria\IdeaProjects\novo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-143.2287" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 15.0.4\bin" />
+              <option name="projectOpenTimestamp" value="1457531016609" />
+              <option name="buildTimestamp" value="1456196400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\karlamaria\IdeaProjects\teste">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-143.2287" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 15.0.4\bin" />
+              <option name="projectOpenTimestamp" value="1457530494512" />
+              <option name="buildTimestamp" value="1456196400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\karlamaria\IdeaProjects\teste23">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-143.2287" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 15.0.4\bin" />
+              <option name="projectOpenTimestamp" value="1459346443778" />
+              <option name="buildTimestamp" value="1456196400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/IdeaProjects" />
+  </component>
+</application>
